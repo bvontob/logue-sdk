@@ -1,3 +1,23 @@
 [submodule "platform/ext/CMSIS"]
 	path = platform/ext/CMSIS
 	url = https://github.com/ARM-software/CMSIS.git
+[submodule "platform/nutekt-digital/fbos"]
+	path = platform/nutekt-digital/fbos
+	url = /home/bvontob/gitdev/fbos/
+[submodule "platform/nutekt-digital/lpf"]
+	path = platform/nutekt-digital/lpf
+	url = git@github.com:bvontob/lpf.git
+[submodule "fbos/"]
+	url = git@github.com:bvontob/fbos.git
+[submodule "platform/nutekt-digital/shps"]
+	path = platform/nutekt-digital/shps
+	url = git@github.com:bvontob/shps.git
+[submodule "platform/nutekt-digital/dbar"]
+	path = platform/nutekt-digital/dbar
+	url = git@github.com:bvontob/dbar.git
+[submodule "platform/nutekt-digital/key4"]
+	path = platform/nutekt-digital/key4
+	url = git@github.com:bvontob/key4.git
+[submodule "platform/nutekt-digital/aeio"]
+	path = platform/nutekt-digital/aeio
+	url = git@github.com:bvontob/aeio.git
