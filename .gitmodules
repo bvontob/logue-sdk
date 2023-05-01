@@ -21,3 +21,12 @@
 [submodule "platform/nutekt-digital/aeio"]
 	path = platform/nutekt-digital/aeio
 	url = git@github.com:bvontob/aeio.git
+[submodule "platform/nutekt-digital/djmx"]
+	path = platform/nutekt-digital/djmx
+	url = git@github.com:bvontob/djmx.git
+[submodule "platform/nutekt-digital/bell"]
+	path = platform/nutekt-digital/bell
+	url = git@github.com:bvontob/bell.git
+[submodule "platform/nutekt-digital/sat"]
+	path = platform/nutekt-digital/sat
+	url = git@github.com:bvontob/sat.git
